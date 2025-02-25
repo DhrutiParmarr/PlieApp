@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843235323938",
+    "project_id": "plieapp",
+    "storage_bucket": "plieapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843235323938:android:ecbd838a762c365709da7b",
+        "android_client_info": {
+          "package_name": "com.plie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843235323938-0rgiqsu96tj9vjejbb89epst9pofj76u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlv3plVMRHcYaHy9CbVMKYQwmm8tw8wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843235323938-0rgiqsu96tj9vjejbb89epst9pofj76u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
